@@ -1,0 +1,17 @@
+
+.fontStyling {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.firstStyling {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.secondStyling {
+    background-color: yellow;
+}
+
+
